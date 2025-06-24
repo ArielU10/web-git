@@ -1,1 +1,1 @@
-# web-git
+Página web educativa que explica de forma sencilla el uso de Git, incluyendo conceptos básicos, comandos esenciales y ejemplos prácticos para el control de versiones en proyectos de desarrollo.
